@@ -18,11 +18,11 @@ Excluded: sales targets, forecasting, inventory availability, customer retention
 ## 4.KPI requirements : 
 Each card must show the primary YTD result, the PYTD result, and the year-over-year change.
 ## 5. Filters and interactions : Use dropdown slicers with clear headings and multi-select support
-Slicer label 	Field 
-State 	store[State] 
-Sport 	products[Sport] 
-Colour 	products[Colour] 
-Payment Method 	sales[Payment_Method] 
-Promotion 	sales[Promotion] 
+1. Slicer label 	Field 
+2. State 	store[State] 
+3. Sport 	products[Sport] 
+4. Colour 	products[Colour] 
+5. Payment Method 	sales[Payment_Method] 
+
 
 ### Screenshot (https://github.com/milindwasekar/Decathalon-Dashboard/blob/main/Decathelon_Report.png)
