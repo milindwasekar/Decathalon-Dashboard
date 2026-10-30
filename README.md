@@ -19,10 +19,10 @@ Excluded: sales targets, forecasting, inventory availability, customer retention
 Each card must show the primary YTD result, the PYTD result, and the year-over-year change.
 ## 5. Filters and interactions : Use dropdown slicers with clear headings and multi-select support
    
-a. State 	store[State] 
-b. Sport 	products[Sport] 
-c. Colour 	products[Colour] 
-d. Payment Method 	sales[Payment_Method] 
+1. State 	store[State] 
+2. Sport 	products[Sport] 
+3. Colour 	products[Colour] 
+4. Payment Method 	sales[Payment_Method] 
 
 
 ### Screenshot (https://github.com/milindwasekar/Decathalon-Dashboard/blob/main/Decathelon_Report.png)
