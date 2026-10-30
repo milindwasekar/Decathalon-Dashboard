@@ -12,14 +12,15 @@ The retail management team needs one interactive report page to monitor sales, p
 8.	Which brands have the strongest and weakest YTD sales growth? 
 9.	How do these answers change when a user applies the available filters? 
 ## 3. Scope 
--Deliver one interactive Power BI report page containing a reporting-period header, six KPI cards, five analytical visuals, a left filter panel, and a reset button. 
--Included: sales and gross profitability, same-period comparisons, product and geographic segmentation, and report interactions. 
--Excluded: sales targets, forecasting, inventory availability, customer retention, market-share analysis, and claims about promotion effectiveness. These require additional data or analysis. Benchmark lines in this report are internal calculations, not market benchmarks.
-## 4.KPI requirements : Each card must show the primary YTD result, the PYTD result, and the year-over-year change.
+Deliver one interactive Power BI report page containing a reporting-period header, six KPI cards, five analytical visuals, a left filter panel, and a reset button. 
+Included: sales and gross profitability, same-period comparisons, product and geographic segmentation, and report interactions. 
+Excluded: sales targets, forecasting, inventory availability, customer retention, market-share analysis, and claims about promotion effectiveness. These require additional data or analysis. Benchmark lines in this report are internal calculations, not market benchmarks.
+## 4.KPI requirements : 
+Each card must show the primary YTD result, the PYTD result, and the year-over-year change.
 ## 5. Filters and interactions : Use dropdown slicers with clear headings and multi-select support
--Slicer label 	Field 
--State 	store[State] 
--Sport 	products[Sport] 
--Colour 	products[Colour] 
+Slicer label 	Field 
+State 	store[State] 
+Sport 	products[Sport] 
+Colour 	products[Colour] 
 Payment Method 	sales[Payment_Method] 
 Promotion 	sales[Promotion] 
