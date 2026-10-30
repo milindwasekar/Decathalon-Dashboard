@@ -24,3 +24,5 @@ Sport 	products[Sport]
 Colour 	products[Colour] 
 Payment Method 	sales[Payment_Method] 
 Promotion 	sales[Promotion] 
+
+### Screenshot (https://github.com/milindwasekar/Decathalon-Dashboard/blob/main/Decathelon_Report.png)
